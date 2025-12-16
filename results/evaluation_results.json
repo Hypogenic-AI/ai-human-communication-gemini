@@ -1,0 +1,277 @@
+[
+  {
+    "id": "ee17dfb574feca82ccac5689595e47483bd23f12",
+    "scores": {
+      "dense": {
+        "accuracy": 0.9,
+        "individual_scores": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "hierarchical": {
+        "accuracy": 0.7,
+        "individual_scores": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "qa_interface": {
+        "accuracy": 0.7,
+        "individual_scores": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      }
+    },
+    "preference": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "f1c555fe64f94df1f8c6afecf1ae4c0d78f6efa8",
+    "scores": {
+      "dense": {
+        "accuracy": 0.6,
+        "individual_scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "hierarchical": {
+        "accuracy": 0.5,
+        "individual_scores": [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      "qa_interface": {
+        "accuracy": 0.7,
+        "individual_scores": [
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ]
+      }
+    },
+    "preference": [
+      "B",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "e84c74b45a589a6faefaa881016505fd282a46ca",
+    "scores": {
+      "dense": {
+        "accuracy": 0.9,
+        "individual_scores": [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "hierarchical": {
+        "accuracy": 0.5,
+        "individual_scores": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "qa_interface": {
+        "accuracy": 0.8,
+        "individual_scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    },
+    "preference": [
+      "B",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "db61d01f82dc63596f7e2fa93b4ab4ae278daf1f",
+    "scores": {
+      "dense": {
+        "accuracy": 0.9,
+        "individual_scores": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "hierarchical": {
+        "accuracy": 0.6,
+        "individual_scores": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      "qa_interface": {
+        "accuracy": 0.8,
+        "individual_scores": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    "preference": [
+      "B",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "6132176f8d61e108f8ae9f3b010f69d722e4152f",
+    "scores": {
+      "dense": {
+        "accuracy": 0.7,
+        "individual_scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "hierarchical": {
+        "accuracy": 0.5,
+        "individual_scores": [
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "qa_interface": {
+        "accuracy": 0.8,
+        "individual_scores": [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    "preference": [
+      "B",
+      "A",
+      "C"
+    ]
+  }
+]

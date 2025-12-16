@@ -1,0 +1,15 @@
+--- Experiment Analysis Summary ---
+
+1. Comprehension Accuracy:
+  - Dense: Mean = 0.80, Std = 0.13
+  - Hierarchical: Mean = 0.56, Std = 0.08
+  - Qa_interface: Mean = 0.76, Std = 0.05
+
+2. Statistical Significance (Paired T-test vs. Dense Baseline):
+  - Hierarchical vs. Dense: statistic=-4.707, p-value=0.009
+  - Q&A Interface vs. Dense: statistic=-0.667, p-value=0.541
+
+3. Simulated User Preference (Score based on ranking):
+  - Hierarchical: 14 points
+  - Dense: 11 points
+  - Qa_interface: 5 points
